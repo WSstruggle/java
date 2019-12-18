@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\Java项目18软件2王帅\java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+123473912.index
